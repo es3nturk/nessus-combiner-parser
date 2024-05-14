@@ -12,5 +12,8 @@ If you are work with multiple teams in a company or foundation, when you wanted 
 3. `sudo python3 NessusCombinerParser.py`
 4. select the Nessus files and push "analyze" button
 
-
+### UI
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZVwMZWN/Screenshot-2024-05-14-201237.png" alt="Screenshot-2024-05-14-201237" border="0"></a>
+
+### Repeating table and Excel output
+<a href="https://ibb.co/gjn6T21"><img src="https://i.ibb.co/vwtDPF5/2-Screenshot-2024-05-14-201956.png" alt="2-Screenshot-2024-05-14-201956" border="0"></a>
