@@ -13,4 +13,4 @@ If you are work with multiple teams in a company or foundation, when you wanted 
 4. select the Nessus files and push "analyze" button
 
 
-[![UI](https://ibb.co/1LpmS8b "UI")](https://ibb.co/1LpmS8b "UI")
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZVwMZWN/Screenshot-2024-05-14-201237.png" alt="Screenshot-2024-05-14-201237" border="0"></a>
