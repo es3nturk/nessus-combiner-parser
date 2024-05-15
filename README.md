@@ -8,7 +8,7 @@ If you are work with multiple teams in a company or foundation, when you wanted 
 ###### There are preselected plug-in lists at code. You can edit them if want to select them to inform other teams, just add the plugin name at write array. If don't want them to exist at the final result, just put "0". For example, you don't need "self-signed certificate" vulnerability at local area network tests. However, if you are scanned from an outside network, it should have been taken care of. 
 
 1. `git clone https://github.com/esenturq/nessus-combiner-parser.git`
-2. `python3 -m pip install -r requiremests.txt`
+2. `python3 -m pip install -r requirements.txt`
 3. `sudo python3 NessusCombinerParser.py`
 4. select the Nessus files and push "analyze" button
 
