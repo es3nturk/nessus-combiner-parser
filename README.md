@@ -17,3 +17,5 @@ If you are work with multiple teams in a company or foundation, when you wanted 
 
 ### Repeating table and Excel output
 <a href="https://ibb.co/gjn6T21"><img src="https://i.ibb.co/vwtDPF5/2-Screenshot-2024-05-14-201956.png" alt="2-Screenshot-2024-05-14-201956" border="0"></a>
+
+If some fields are missing at your XLSX and XML file, try what's recommended at this [document](https://medium.com/@nurettin.esenturk/nessus-xml-export-missing-fields-28487b3b3010 "document").
